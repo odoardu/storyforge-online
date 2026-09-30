@@ -1,0 +1,7 @@
+node_modules
+exports
+figma-lpz-liquid-glass
+server.mjs
+dist
+.git
+.env*
